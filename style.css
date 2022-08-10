@@ -1,0 +1,24 @@
+body {
+    max-width: 1920px;
+    max-height: 500px;
+    font-size: 'poppins', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0px;
+    background-color: #000;
+}
+
+p {
+    font-size: 20px;
+    line-height: 14px;
+    text-align: justify;
+    background: url(https://scontent.fmnl17-1.fna.fbcdn.net/v/t39.30808-6/265007561_274643271313330_157312569709256788_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=19026a&_nc_eui2=AeH296DxQ1byZTxLHzQQYEJShk9jrxmbEZ-GT2OvGZsRnx584jBm_x20Fm905eAKRZWU2S9gJmcLN2iNAgkhq7s1&_nc_ohc=tj4GkhRoI4QAX-OsfEF&_nc_ht=scontent.fmnl17-1.fna&oh=00_AT9jLxcXXojh_yy7cTkxc9qVZG8TH7XNbsC6eOi9jYBJaQ&oe=62F3E0FD);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    -webkit-background-clip: text;
+    background-attachment: fixed;
+    -webkit-text-fill-color: rgb(255, 255, 255, 0);
+}
